@@ -1,0 +1,20 @@
+#ifndef HOMUNCULUS_CONSTANTS_H
+#define HOMUNCULUS_CONSTANTS_H
+
+#include "HomunculusConfig.h"
+
+// adc
+#define ADC_ATTENUATION ADC_ATTEN_DB_11
+#define ADC_WIDTH ADC_WIDTH_BIT_12
+// depends on ADC_WIDTH
+#define ADC_MAX_VALUE 4095
+
+// spi
+#define SPI_REDUNDANCY 5
+#define SPI_TRANSACTION_SIZE (SPI_BUFFER_SIZE * SPI_REDUNDANCY)
+#define SPI_MOSI_PIN 23
+#define SPI_MISO_PIN 19
+#define SPI_SCLK_PIN 18
+#define SPI_CS_PIN 5
+
+#endif //HOMUNCULUS_CONSTANTS_H

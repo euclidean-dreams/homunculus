@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="keyhole_0 (21bcc28b-043a-4342-8a2e-16eadf376e46)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$USER_HOME$/unmanaged_software/esp-idf" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="keyhole_1 (0a369be5-27ef-4e18-b0c3-5cba49800366)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$USER_HOME$/unmanaged_software/esp-idf" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="keyhole_2 (489072ac-efbc-4ccd-8bfe-d0de48cf720e)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$USER_HOME$/unmanaged_software/esp-idf" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
